@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="CortanaLightListenerCommandSet_en-us">
+    <CommandPrefix>Code Camp,</CommandPrefix>
+    <Example> Make the magic happen </Example>
+    <Command Name="switchAllHueLights">
+      <Example>turn the lights on</Example>
+      <ListenFor>turn the lights {action}</ListenFor>
+      <Feedback>Turning the lights {action}</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="switchSpecificHueLight">
+      <Example>turn the Office Lamp on</Example>
+      <ListenFor>turn the {lightname} {action}</ListenFor>
+      <Feedback>Turning the {lightname} {action}</Feedback>
+      <Navigate/>
+    </Command>
+    
+    <PhraseList Label="action">
+      <Item>on</Item>
+      <Item>off</Item>
+    </PhraseList>
+
+    <PhraseList Label="lightname">
+      <Item>Office Lamp</Item>
+      <Item>Bedroom Lamp</Item>
+      <Item>Office Overhead</Item>
+    </PhraseList>
+  </CommandSet>
+</VoiceCommands>

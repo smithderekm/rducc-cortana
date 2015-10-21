@@ -1,0 +1,7 @@
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\bin\Debug\Implore.Api.Hue.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\bin\Debug\Implore.Api.Hue.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\obj\Debug\Implore.Api.Hue.csprojResolveAssemblyReference.cache
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\obj\Debug\Implore.Api.Hue.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\obj\Debug\Implore.Api.Hue.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue\bin\Debug\Newtonsoft.Json.xml

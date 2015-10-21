@@ -1,0 +1,11 @@
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Implore.Api.Hue.Tests.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Implore.Api.Hue.Tests.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Implore.Api.Hue.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Implore.Api.Hue.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\obj\Debug\Implore.Api.Hue.Tests.csprojResolveAssemblyReference.cache
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\obj\Debug\Implore.Api.Hue.Tests.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\obj\Debug\Implore.Api.Hue.Tests.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Api.Hue.Tests\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="CortanaLightController.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CortanaLightController"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF58585A" RequestedTheme="Light">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="479*"/>
+            <ColumnDefinition Width="161*"/>
+        </Grid.ColumnDefinitions>
+        <RelativePanel HorizontalAlignment="Left" Height="700" Margin="10,10,0,0" VerticalAlignment="Top" Width="1102" Grid.ColumnSpan="2">
+            <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="30,0,-608,0" TextWrapping="Wrap" Text="Hey, Cortana, turn on the lights!" VerticalAlignment="Top" FontSize="48" Foreground="White"/>
+            <Button x:Name="LightOnButton" Content="Turn Lights On" HorizontalAlignment="Left" Margin="15,69,-144,-69" VerticalAlignment="Top" FontSize="32" Background="#3306EC06" Click="LightOnButton_Click"/>
+            <Button x:Name="LightOffButton" Content="Turn Lights Off" HorizontalAlignment="Left" Margin="259,69,-389,-69" VerticalAlignment="Top" FontSize="32" Background="#FF630000" Foreground="White" Click="LightOffButton_Click" RenderTransformOrigin="0.479,0.171"/>
+            <Image x:Name="image" HorizontalAlignment="Left" Height="113" Margin="10,562,-10,-575" VerticalAlignment="Top" Width="340" Source="Assets/codecamp.png"/>
+            <ToggleSwitch x:Name="toggleSwitchKitchen" Header="KITCHEN" HorizontalAlignment="Left" VerticalAlignment="Top" Toggled="toggleSwitchKitchen_Toggled" Width="229" Foreground="White" BorderBrush="White" RequestedTheme="Dark" Margin="15,141,-15,-141"/>
+            <ToggleSwitch x:Name="toggleSwitchOffice" Header="OFFICE" HorizontalAlignment="Left" Margin="260,141,-15,-141" VerticalAlignment="Top" Toggled="toggleSwitchOffice_Toggled" Width="229" RequestedTheme="Dark"/>
+            <ToggleSwitch x:Name="toggleSwitchBedroom" Header="BEDROOM" HorizontalAlignment="Left" Margin="503,141,-15,-141" VerticalAlignment="Top" Width="228" Toggled="toggleSwitchBedroom_Toggled" RequestedTheme="Dark"/>
+            <ScrollViewer x:Name="outputScroller" HorizontalAlignment="Left" Height="337" Margin="10,206,0,-183" VerticalAlignment="Top" Width="721" Background="White">
+                <StackPanel x:Name="outputContent"/>
+            </ScrollViewer>
+        </RelativePanel>
+
+    </Grid>
+</Page>

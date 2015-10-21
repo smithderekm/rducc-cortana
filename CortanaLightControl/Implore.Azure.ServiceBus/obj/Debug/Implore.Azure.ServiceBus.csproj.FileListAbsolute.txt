@@ -1,0 +1,5 @@
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Azure.ServiceBus\bin\Debug\Implore.Azure.ServiceBus.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Azure.ServiceBus\bin\Debug\Implore.Azure.ServiceBus.pdb
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Azure.ServiceBus\obj\Debug\Implore.Azure.ServiceBus.csprojResolveAssemblyReference.cache
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Azure.ServiceBus\obj\Debug\Implore.Azure.ServiceBus.dll
+E:\workspace\RDUCC15\CortanaLightControl\Implore.Azure.ServiceBus\obj\Debug\Implore.Azure.ServiceBus.pdb

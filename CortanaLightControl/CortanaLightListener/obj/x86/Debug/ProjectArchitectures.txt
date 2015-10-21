@@ -1,0 +1,1 @@
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightListener\CortanaLightListener.csproj;x86

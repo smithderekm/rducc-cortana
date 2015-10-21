@@ -1,0 +1,116 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CortanaLightListener", "CortanaLightListener\CortanaLightListener.csproj", "{68F89846-3397-4E2E-9046-D6058340A22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CortanaLightController", "CortanaLightController\CortanaLightController.csproj", "{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implore.Api.Hue", "Implore.Api.Hue\Implore.Api.Hue.csproj", "{15ED33C6-C9DF-4E59-84CE-4300325BB23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implore.Api.Hue.Tests", "Implore.Api.Hue.Tests\Implore.Api.Hue.Tests.csproj", "{F8714939-5B02-4E88-9903-A7E892485855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|ARM.Build.0 = Debug|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x64.ActiveCfg = Debug|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x64.Build.0 = Debug|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x64.Deploy.0 = Debug|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x86.ActiveCfg = Debug|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x86.Build.0 = Debug|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Debug|x86.Deploy.0 = Debug|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|Any CPU.ActiveCfg = Release|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|ARM.ActiveCfg = Release|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|ARM.Build.0 = Release|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|ARM.Deploy.0 = Release|ARM
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x64.ActiveCfg = Release|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x64.Build.0 = Release|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x64.Deploy.0 = Release|x64
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x86.ActiveCfg = Release|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x86.Build.0 = Release|x86
+		{68F89846-3397-4E2E-9046-D6058340A22F}.Release|x86.Deploy.0 = Release|x86
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|ARM.Build.0 = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|x64.Build.0 = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Debug|x86.Build.0 = Debug|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|ARM.ActiveCfg = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|ARM.Build.0 = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|x64.ActiveCfg = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|x64.Build.0 = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|x86.ActiveCfg = Release|Any CPU
+		{15891D8C-B9AA-4A0D-AD71-A4E87A11AF19}.Release|x86.Build.0 = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|x64.Build.0 = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Debug|x86.Build.0 = Debug|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|ARM.Build.0 = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|x64.ActiveCfg = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|x64.Build.0 = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|x86.ActiveCfg = Release|Any CPU
+		{15ED33C6-C9DF-4E59-84CE-4300325BB23E}.Release|x86.Build.0 = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|ARM.Build.0 = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|x64.Build.0 = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Debug|x86.Build.0 = Debug|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|ARM.Build.0 = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|x64.ActiveCfg = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|x64.Build.0 = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|x86.ActiveCfg = Release|Any CPU
+		{F8714939-5B02-4E88-9903-A7E892485855}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://imploretech.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CortanaLightController\\CortanaLightController.csproj
+		SccProjectName1 = CortanaLightController
+		SccLocalPath1 = CortanaLightController
+		SccProjectUniqueName2 = CortanaLightListener\\CortanaLightListener.csproj
+		SccProjectName2 = CortanaLightListener
+		SccLocalPath2 = CortanaLightListener
+		SccProjectUniqueName3 = Implore.Api.Hue\\Implore.Api.Hue.csproj
+		SccProjectName3 = Implore.Api.Hue
+		SccLocalPath3 = Implore.Api.Hue
+		SccProjectUniqueName4 = Implore.Api.Hue.Tests\\Implore.Api.Hue.Tests.csproj
+		SccProjectName4 = Implore.Api.Hue.Tests
+		SccLocalPath4 = Implore.Api.Hue.Tests
+	EndGlobalSection
+EndGlobal

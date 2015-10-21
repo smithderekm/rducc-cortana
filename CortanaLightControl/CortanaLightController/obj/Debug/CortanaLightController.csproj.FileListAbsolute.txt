@@ -1,0 +1,13 @@
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\CortanaLightController.exe.config
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\CortanaLightController.exe
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\CortanaLightController.pdb
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\obj\Debug\CortanaLightController.csprojResolveAssemblyReference.cache
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\obj\Debug\CortanaLightController.exe
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\obj\Debug\CortanaLightController.pdb
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Implore.Api.Hue.dll
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Microsoft.ServiceBus.dll
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Implore.Api.Hue.pdb
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Microsoft.ServiceBus.xml
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\RDUCC15\CortanaLightControl\CortanaLightController\bin\Debug\Newtonsoft.Json.xml
